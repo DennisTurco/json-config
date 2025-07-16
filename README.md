@@ -76,6 +76,20 @@ public class Main {
     }
 }
 ```
+Thanks to **JsonConfig**, you can access your configuration values as follows:
+```txt
+--- All Flattened Configs ---
+APP_NAME: test
+LOGO_IMG: /res/img/logo.png
+VERSION: 1.0.0
+MenuItems_New: true
+MenuItems_Quit: true
+MenuItems_Save: true
+File_Readme_path: a_general_path
+File_Readme_extension: .md
+File_Properties_path: another_general_path
+File_Properties_extension: .config
+```
 
 ## License
 

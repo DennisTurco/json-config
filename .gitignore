@@ -7,3 +7,4 @@
 /target/maven-status
 /target/site
 /target/test-classes
+/target/generated-test-sources
