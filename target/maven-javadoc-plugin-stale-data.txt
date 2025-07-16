@@ -6,41 +6,40 @@
 'UTF-8'
 -protected
 -sourcepath
-'D:/Documents/NetBeansProjects/jsonconfigreader/src/main/java;D:/Documents/NetBeansProjects/jsonconfigreader/target/generated-sources/annotations'
+'D:/Documents/NetBeansProjects/jsonconfig/src/main/java;D:/Documents/NetBeansProjects/jsonconfig/target/generated-sources/annotations'
 -author
 -bottom
 'Copyright &#169; 2025. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'D:/Documents/NetBeansProjects/jsonconfigreader/target/apidocs'
+'D:/Documents/NetBeansProjects/jsonconfig/target/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
-'JsonConfig 1.0.0 API'
+'Json Config 1.0.0 API'
 -linkoffline
-'https://docs.oracle.com/javase/8/docs/api' 'D:/Documents/NetBeansProjects/jsonconfigreader/target/javadoc-bundle-options'
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Documents/NetBeansProjects/jsonconfig/target/javadoc-bundle-options'
 -use
 -version
 -windowtitle
-'JsonConfig 1.0.0 API'
+'Json Config 1.0.0 API'
 com.dennisturco
 C:\Users\Utente\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.19.1\jackson-databind-2.19.1.jar = 1752685292416
 C:\Users\Utente\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.19.1\jackson-annotations-2.19.1.jar = 1752685292433
 C:\Users\Utente\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.19.1\jackson-core-2.19.1.jar = 1752685292479
-D:\Documents\NetBeansProjects\jsonconfigreader\src\main\java = 1752692084866
-D:\Documents\NetBeansProjects\jsonconfigreader\target\generated-sources\annotations = 1752691620166
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\allclasses-index.html = 1752693126456
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\allpackages-index.html = 1752693126459
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\element-list = 1752693126417
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\help-doc.html = 1752693126755
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\index-all.html = 1752693126576
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\index.html = 1752693126580
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\javadoc.bat = 1752693040609
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\member-search-index.js = 1752693126466
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\module-search-index.js = 1752693126460
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\overview-tree.html = 1752693126444
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\package-search-index.js = 1752693126461
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\search.html = 1752693126578
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\tag-search-index.js = 1752693126467
-D:\Documents\NetBeansProjects\jsonconfigreader\target\apidocs\type-search-index.js = 1752693126462
+D:\Documents\NetBeansProjects\jsonconfig\src\main\java = 1752693772059
+D:\Documents\NetBeansProjects\jsonconfig\target\generated-sources\annotations = 1752694496961
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\allclasses-index.html = 1752694499649
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\allpackages-index.html = 1752694499651
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\element-list = 1752694499607
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\help-doc.html = 1752694499680
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\index-all.html = 1752694499665
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\index.html = 1752694499671
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\member-search-index.js = 1752694499656
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\module-search-index.js = 1752694499653
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\overview-tree.html = 1752694499639
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\package-search-index.js = 1752694499654
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\search.html = 1752694499669
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\tag-search-index.js = 1752694499658
+D:\Documents\NetBeansProjects\jsonconfig\target\apidocs\type-search-index.js = 1752694499655

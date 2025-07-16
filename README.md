@@ -30,7 +30,7 @@ If you are using a **Maven** project, you can add this dependency to your `pom.x
 ```
 
 ## Usage
-📘 [Javadoc Documentation](https://dennisturco.github.io/JsonConfig/com/dennisturco/JsonConfig/package-summary.html)
+📘 [Javadoc Documentation](https://dennisturco.github.io/json-config/com/dennisturco/package-summary.html)
 
 
 ### Basic Example
